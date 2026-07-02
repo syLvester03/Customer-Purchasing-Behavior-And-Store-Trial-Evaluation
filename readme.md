@@ -15,7 +15,7 @@ statistically confirmed (ANOVA, p ≈ 4.4e-267). On the trial side,
 lift in revenue and customers during the trial period; the third was 
 inconclusive due to a weak control-store match.
 
-**Stack:** Python (Pandas, Matplotlib, Seaborn, SciPy) · Jupyter · Power BI
+**Stack:** Python (Pandas, Matplotlib, Seaborn, SciPy) · Jupyter · Power BI  
 **Deliverables:** 3 Jupyter notebooks (cleaning → customer analysis → store
 trial evaluation) · 2-page Power BI dashboard — [screenshots below](#dashboard)
 
