@@ -25,8 +25,7 @@ trial evaluation) · 2-page Power BI dashboard — [screenshots below](#dashboar
 
 This project analyzes a full year of transaction and customer-loyalty-card data 
 for a chip category, addressing two linked business questions: **which customers
-actually drive chip sales, and did a recent in-store trial layout change
-increase sales?**
+actually drive chip sales, and did a recent in-store trial layout increase sales?**
 
 The customer-side analysis shows that revenue is not evenly spread across
 the customer base. When segment and life stage are broken out together,
