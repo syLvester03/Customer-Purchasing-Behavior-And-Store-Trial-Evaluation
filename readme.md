@@ -115,7 +115,7 @@ condenses the notebook findings into two report pages.
 
 ### Page 1 — Segments & Life Stages
 
-![Segments_&_LifeStages](report/screenshots/Segments%20%26%20LifeStages.png)
+![Segments_&_LifeStages](report/screenshots/Segments_&_LifeStages.png)
 
 An overview of who buys chips and how much they pay for them.
 
@@ -141,7 +141,7 @@ An overview of who buys chips and how much they pay for them.
 
 ### Page 2 — Trial Stores Performance
 
-![Trial_Stores_Performace](report/screenshots/Trial%20Stores%20Performace.png)
+![Trial_Stores_Performace](report/screenshots/Trial_Stores_Performace.png)
 
 A side-by-side comparison of each trial store against its matched control
 store across the three trial months (February–April 2019).
