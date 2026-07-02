@@ -115,7 +115,7 @@ condenses the notebook findings into two report pages.
 
 ### Page 1 — Segments & Life Stages
 
-![Segments & LifeStages](report/screenshots/Segments%20%26%20LifeStages.png)
+![Segments_&_LifeStages](report/screenshots/Segments%20%26%20LifeStages.png)
 
 An overview of who buys chips and how much they pay for them.
 
@@ -141,7 +141,7 @@ An overview of who buys chips and how much they pay for them.
 
 ### Page 2 — Trial Stores Performance
 
-![Trial Stores Performace](report/screenshots/Trial%20Stores%20Performace.png)
+![Trial_Stores_Performace](report/screenshots/Trial%20Stores%20Performace.png)
 
 A side-by-side comparison of each trial store against its matched control
 store across the three trial months (February–April 2019).
@@ -150,11 +150,10 @@ store across the three trial months (February–April 2019).
   219, Store 86: 757) giving raw trial-period volume before the
   scaled comparison.
 - **Trial Period Revenue Comparison** — grouped bar charts (Store 77 vs.
-  233, Store 88 vs. 155) plotting scaled control-store revenue against
+  233, Store 86 vs. 155) plotting scaled control-store revenue against
   actual trial-store revenue month by month. Store 77 opens below its
-  control in February and pulls decisively ahead by April; the Store
-  88/155 pairing is included for completeness but flagged in the notebook
-  as unreliable given its weak control-store correlation.
+  control in February and pulls decisively ahead by April; Store 86 shows
+  steady, consistent growth over its control across all three months.
 - **Trial Period Number of Customers Comparison** — the same structure
   applied to customer counts (Store 77 vs. 233, Store 86 vs. 155),
   confirming the revenue pattern is driven by more customers, not just
@@ -170,8 +169,8 @@ combinations in total), Budget – Older Families, Mainstream – Young
 Singles/Couples, and Mainstream – Retirees each individually outperform
 every other combination - but not for the same reason. The two Mainstream
 groups lead through headcount, not higher spend per person. Budget – Older
-Families is the opposite: a smaller customer base that buys more per
-visit.
+Families is the opposite: a smaller customer base that buys frequently and 
+spends more per visit.
 
 **2. The Young Singles/Couples Price Premium Is Statistically Real**
 Mainstream – Young Singles/Couples pay a visibly higher price per pack than
@@ -249,7 +248,7 @@ rollout.
   the core brief (clean the data, profile customers, evaluate the trial
   stores). The ANOVA significance test, the brand/pack-size affinity (lift)
   analysis, the correlation-based control-store selection with scaling
-  adjustment, and the Power BI dashboard are original extensions beyond the
+  adjustment, and the Power BI report are original extensions beyond the
   base task.
 
 ---
