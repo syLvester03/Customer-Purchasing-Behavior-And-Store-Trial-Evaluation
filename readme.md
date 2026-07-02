@@ -141,7 +141,7 @@ An overview of who buys chips and how much they pay for them.
 
 ### Page 2 — Trial Stores Performance
 
-![Trial_Stores_Performace](report/screenshots/Trial_Stores_Performace.png)
+![Trial_Stores_Performance](report/screenshots/Trial_Stores_Performance.png)
 
 A side-by-side comparison of each trial store against its matched control
 store across the three trial months (February–April 2019).
